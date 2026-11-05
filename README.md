@@ -387,7 +387,7 @@
         untuk konsultasi dan penawaran harga terbaik.
       </p>
 
-      <a href="https://wa.me/6281234567890">
+      <a href="https://wa.me/6283140517726">
         💬 Chat WhatsApp Kami
       </a>
     </div>
