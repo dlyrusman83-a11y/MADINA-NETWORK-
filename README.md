@@ -132,6 +132,7 @@
     <nav>
       <a href="#layanan">Layanan</a>
       <a href="#harga">Harga</a>
+      <a href="#penutup">penutup</a>
       <a href="#kontak">Kontak</a>
     </nav>
   </header>
