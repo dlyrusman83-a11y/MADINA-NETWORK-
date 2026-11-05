@@ -219,7 +219,7 @@
 <section id="penutup">
   <div class="container">
     <h2 class="judul-bagian">Siap Memasang & Memperbaiki Jaringan Fiber Optik Anda</h2>
-     <div style="max-width:800px; margin:0 auto; background:#E6F0FC; padding:30px; border-radius:16px; box-shadow:0 8px 24px rgba(8,27,57,0.10); text‑align:center;">
+     <div style="max-width:800px; margin:0 auto; background:#E6F0FC; padding:20px; border-radius:16px; box-shadow:0 8px 24px rgba(8,27,57,0.10); text‑align:center;">
 <p style="margin‑bottom:15px; text‑align:left;"><strong>Penutup</strong></p>
 <p style="margin‑bottom:15px; text‑align:left;">Kami menyediakan jasa pemasangan, penyambungan, perbaikan serta pengecekan jaringan fiber optik untuk rumah, kantor, sekolah dan perkantoran. Tim kami berpengalaman menangani penyambungan kabel fiber optik, pemasangan terminal ODB hingga pengecekan kerusakan kabel menggunakan alat OTDR.</p>
 <p style="margin‑bottom:25px; text‑align:left;">Jika Anda membutuhkan jasa pemasangan atau perbaikan jaringan fiber optik yang cepat, rapi dan terpercaya, silakan hubungi kami untuk konsultasi dan penawaran harga terbaik.</p>
