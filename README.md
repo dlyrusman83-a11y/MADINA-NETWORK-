@@ -170,32 +170,16 @@
   </section>
 
   <section id="harga">
-    <h2>Daftar Harga</h2>
+    <h2>DAFTAR HARGA WIFI</h2>
 
-    <div class="layanan">
-      <div class="card">
-        <h3>Pemasangan Rumah</h3>
-        <p>Instalasi jaringan untuk rumah atau kos.</p>
-        <div class="harga">Mulai Rp150.000</div>
-      </div>
+<p>20 Mbps — Rp150.000/bulan</p>
+<p>30 Mbps — Rp200.000/bulan</p>
+<p>50 Mbps — Rp250.000/bulan</p>
+<p>100 Mbps — Rp350.000/bulan</p>
+<p>200 Mbps — Rp500.000/bulan</p>
 
-      <div class="card">
-        <h3>Splicing Kabel</h3>
-        <p>Penyambungan kabel fiber optik.</p>
-        <div class="harga">Mulai Rp50.000</div>
-      </div>
-
-      <div class="card">
-        <h3>Survey Lokasi</h3>
-        <p>Pengecekan lokasi sebelum pemasangan.</p>
-        <div class="harga">Hubungi Kami</div>
-      </div>
-    </div>
-
-    <p style="margin-top:20px;color:#94a3b8">
-      Harga di atas hanya contoh. Sesuaikan dengan
-      tarif dan wilayah layanan Anda.
-    </p>
+<p>Layanan: Internet fiber optik</p>
+<p>Instalasi baru: Rp250.000.</p>
   </section>
 
   <section id="kontak" class="kontak">
