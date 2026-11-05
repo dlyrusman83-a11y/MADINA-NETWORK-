@@ -202,23 +202,64 @@
 <!-- Penutup / Ajakan Hubungi Kami (Untuk Jasa Fiber Optik) -->
 <section id="penutup">
   <div class="container">
-    <h2 class="judul-bagian">Siap Memasang & Memperbaiki Jaringan Fiber Optik Anda</h2>
-     <div style="max-width:1000px; margin:0 auto; background:#111827; padding:30px; border-radius:16px; box-shadow:0 8px 24px rgba(8,27,57,0.10); text‑align:center;">
-<p style="margin‑bottom:10px; text‑align:left;"><strong>Penutup</strong></p>
-<p style="margin‑bottom:10px; text‑align:left;">Kami menyediakan jasa pemasangan, penyambungan, perbaikan serta pengecekan jaringan fiber optik untuk rumah, kantor, sekolah dan perkantoran. Tim kami berpengalaman menangani penyambungan kabel fiber optik, pemasangan terminal ODB hingga pengecekan kerusakan kabel menggunakan alat OTDR.</p>
-<p style="margin‑bottom:20px; text‑align:left;">Jika Anda membutuhkan jasa pemasangan atau perbaikan jaringan fiber optik yang cepat, rapi dan terpercaya, silakan hubungi kami untuk konsultasi dan penawaran harga terbaik.</p>
-       <!-- Tombol Chat WhatsApp -->
-  <a href="https://wa.me/6282161153043" target="_blank" style="display:inline‑block; padding:14px 30px; background‑color:#ffffff; color:#0b1120; text‑decoration:none; border‑radius:15px; font‑weight:600; font‑size:17px; box‑shadow:0 6px 18px rgba(37, 211, 102, 0.35); transition:0.3s;">
-  
-  </a>
+<style>
+  .siap-memasang {
+    width: 100%;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    background: #111827;
+    border-radius: 8px;
+  }
+
+  .siap-memasang h2 {
+    color: #60c5f5;
+    border-bottom: 1px solid #64748b;
+    padding-bottom: 10px;
+    margin: 0 0 20px;
+  }
+
+  .siap-memasang .penutup {
+    background: #1e293b;
+    padding: 25px 20px;
+    border-radius: 8px;
+    color: #fff;
+    box-sizing: border-box;
+  }
+
+  .siap-memasang p {
+    line-height: 1.6;
+  }
+
+  .siap-memasang a {
+    color: #60c5f5;
+    font-weight: bold;
+    text-decoration: none;
+  }
+</style>
+
+<section class="siap-memasang">
+  <h2>Siap Memasang & Memperbaiki Jaringan Fiber Optik Anda</h2>
+
+  <div class="penutup">
+    <h4>Penutup</h4>
+
+    <p>
+      Kami menyediakan jasa pemasangan, penyambungan,
+      perbaikan serta pengecekan jaringan fiber optik
+      untuk rumah, kantor, sekolah dan perkantoran.
+    </p>
+
+    <p>
+      Jika Anda membutuhkan jasa pemasangan atau
+      perbaikan jaringan fiber optik yang cepat,
+      rapi dan terpercaya, silakan hubungi kami.
+    </p>
+
+    <a href="https://wa.me/6281234567890">
+      Chat WhatsApp Kami
+    </a>
   </div>
-    </div>
 </section>
-
-<!-- Footer -->
-<footer>
-  <div class="container">
- <p>© 2026 Jasa Fiber Optik | Pemasangan & Perbaikan Jaringan Fiber Optik</p>
-    </div>
-</footer>
-
