@@ -170,18 +170,114 @@
     </div>
   </section>
 
-  <section id="harga">
-    <h2>DAFTAR HARGA WIFI</h2>
+  <style>
+  .daftar-harga {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
 
-<p>20 Mbps — Rp150.000/bulan</p>
-<p>30 Mbps — Rp200.000/bulan</p>
-<p>50 Mbps — Rp250.000/bulan</p>
-<p>100 Mbps — Rp350.000/bulan</p>
-<p>200 Mbps — Rp500.000/bulan</p>
+  .daftar-harga h2 {
+    text-align: center;
+    color: #60c5f5;
+    border-bottom: 1px solid #64748b;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+  }
 
-<p>Layanan: Internet fiber optik</p>
-<p>Instalasi baru: Rp250.000.</p>
-  </section>
+  .paket-wifi {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
+
+  .paket {
+    background: #1e293b;
+    padding: 25px 15px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    border: 1px solid #29364a;
+  }
+
+  .paket h3 {
+    color: #7dd3fc;
+    font-size: 17px;
+  }
+
+  .paket p {
+    font-size: 14px;
+    color: #d1d5db;
+  }
+
+  .paket .harga {
+    color: #4ade80;
+    font-size: 17px;
+    font-weight: bold;
+  }
+
+  .info-wifi {
+    margin-top: 25px;
+    padding: 20px;
+    background: #1e293b;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+
+  @media (max-width: 600px) {
+    .paket-wifi {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>
+
+<section class="daftar-harga">
+
+  <h2>DAFTAR HARGA WIFI</h2>
+
+  <div class="paket-wifi">
+
+    <div class="paket">
+      <h3>20 Mbps</h3>
+      <p>Internet fiber optik unlimited</p>
+      <p class="harga">Rp150.000/bulan</p>
+    </div>
+
+    <div class="paket">
+      <h3>30 Mbps</h3>
+      <p>Internet fiber optik unlimited</p>
+      <p class="harga">Rp200.000/bulan</p>
+    </div>
+
+    <div class="paket">
+      <h3>50 Mbps</h3>
+      <p>Internet fiber optik unlimited</p>
+      <p class="harga">Rp250.000/bulan</p>
+    </div>
+
+    <div class="paket">
+      <h3>100 Mbps</h3>
+      <p>Internet fiber optik unlimited</p>
+      <p class="harga">Rp350.000/bulan</p>
+    </div>
+
+    <div class="paket">
+      <h3>200 Mbps</h3>
+      <p>Internet fiber optik unlimited</p>
+      <p class="harga">Rp500.000/bulan</p>
+    </div>
+
+  </div>
+
+  <div class="info-wifi">
+    <p><strong>Layanan:</strong> Internet fiber optik unlimited.</p>
+    <p><strong>Instalasi baru:</strong> Rp250.000.</p>
+  </div>
+
+</section>
 
   <section id="kontak" class="kontak">
     <h2>Hubungi Kami</h2>
@@ -198,69 +294,106 @@
     <p>© 2026 FiberPro | Jasa Fiber Optik</p>
   </footer>
 
-</body>
-</html>
-<!-- Penutup / Ajakan Hubungi Kami (Untuk Jasa Fiber Optik) -->
-<section id="penutup">
-  <div class="container">
 <style>
-  .siap-memasang {
+  /* Bagian penutup sejajar dengan daftar harga */
+  #penutup {
+    width: 100%;
+    margin: 40px 0 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  #penutup .container {
     width: 100%;
     max-width: 1000px;
-    margin: 40px auto;
-    padding: 20px;
+    margin: 0 auto;
+    padding: 0 20px;
     box-sizing: border-box;
-    text-align: center;
-    background: #111827;
-    border-radius: 8px;
   }
 
-  .siap-memasang h2 {
-    color: #60c5f5;
-    border-bottom: 1px solid #64748b;
+  #penutup h2 {
+    width: 100%;
+    margin: 0 0 15px;
     padding-bottom: 10px;
-    margin: 0 0 20px;
-  }
-
-  .siap-memasang .penutup {
-    background: #1e293b;
-    padding: 25px 20px;
-    border-radius: 8px;
-    color: #fff;
+    color: #60c5f5;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.5;
+    border-bottom: 1px solid #64748b;
     box-sizing: border-box;
   }
 
-  .siap-memasang p {
-    line-height: 1.6;
+  #penutup .penutup {
+    width: 100%;
+    margin: 0;
+    padding: 25px 20px;
+    background: #1e293b;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   }
 
-  .siap-memasang a {
+  #penutup p {
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+  }
+
+  #penutup a {
     color: #60c5f5;
     font-weight: bold;
     text-decoration: none;
   }
+
+  @media (max-width: 600px) {
+    #penutup .container {
+      padding: 0 15px;
+    }
+
+    #penutup h2 {
+      font-size: 17px;
+    }
+
+    #penutup .penutup {
+      padding: 20px 15px;
+    }
+  }
 </style>
 
-<section class="siap-memasang">
-  <h2>Siap Memasang & Memperbaiki Jaringan Fiber Optik Anda</h2>
+<section id="penutup">
+  <div class="container">
 
-  <div class="penutup">
-    <h4>Penutup</h4>
+    <h2>
+      Siap Memasang & Memperbaiki Jaringan Fiber Optik Anda
+    </h2>
 
-    <p>
-      Kami menyediakan jasa pemasangan, penyambungan,
-      perbaikan serta pengecekan jaringan fiber optik
-      untuk rumah, kantor, sekolah dan perkantoran.
-    </p>
+    <div class="penutup">
+      <h4>Penutup</h4>
 
-    <p>
-      Jika Anda membutuhkan jasa pemasangan atau
-      perbaikan jaringan fiber optik yang cepat,
-      rapi dan terpercaya, silakan hubungi kami.
-    </p>
+      <p>
+        Kami menyediakan jasa pemasangan, penyambungan,
+        perbaikan serta pengecekan jaringan fiber optik
+        untuk rumah, kantor, sekolah dan perkantoran.
+        Tim kami berpengalaman menangani penyambungan
+        kabel fiber optik, pemasangan terminal ODB
+        hingga pengecekan kerusakan kabel menggunakan alat OTDR.
+      </p>
 
-    <a href="https://wa.me/6281234567890">
-      Chat WhatsApp Kami
-    </a>
+      <p>
+        Jika Anda membutuhkan jasa pemasangan atau
+        perbaikan jaringan fiber optik yang cepat,
+        rapi dan terpercaya, silakan hubungi kami
+        untuk konsultasi dan penawaran harga terbaik.
+      </p>
+
+      <a href="https://wa.me/6281234567890">
+        💬 Chat WhatsApp Kami
+      </a>
+    </div>
+
   </div>
 </section>
+
+</body>
+</html>
