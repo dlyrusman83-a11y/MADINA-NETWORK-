@@ -217,25 +217,24 @@
 </html>#
 <!-- Penutup / Ajakan Hubungi Kami (Untuk Jasa Fiber Optik) -->
 <section id="penutup">
-    <div class="container">
-        <h2 class="judul-bagian">Siap Memasang & Memperbaiki Jaringan Fiber Optik Anda</h2>
-        <div style="max-width:800px; margin:0 auto; background:#E6F0FC; padding:30px; border-radius:16px; box-shadow:0 8px 24px rgba(8,27,57,0.10); text‑align:center;">
-            <p style="margin‑bottom:15px; text‑align:left;"><strong>Penutup</strong></p>
-            <p style="margin‑bottom:15px; text‑align:left;">Kami menyediakan jasa pemasangan, penyambungan, perbaikan serta pengecekan jaringan fiber optik untuk rumah, kantor, sekolah dan perkantoran. Tim kami berpengalaman menangani penyambungan kabel fiber optik, pemasangan terminal ODB hingga pengecekan kerusakan kabel menggunakan alat OTDR.</p>
-            <p style="margin‑bottom:25px; text‑align:left;">Jika Anda membutuhkan jasa pemasangan atau perbaikan jaringan fiber optik yang cepat, rapi dan terpercaya, silakan hubungi kami untuk konsultasi dan penawaran harga terbaik.</p>
-
-            <!-- Tombol Chat WhatsApp -->
-            <a href="https://wa.me/6282161153043" target="_blank" style="display:inline‑block; padding:14px 30px; background‑color:#25D366; color:#ffffff; text‑decoration:none; border‑radius:30px; font‑weight:600; font‑size:17px; box‑shadow:0 6px 18px rgba(37, 211, 102, 0.35); transition:0.3s;">
-                💬 Chat WhatsApp Kami
-            </a>
-        </div>
+  <div class="container">
+    <h2 class="judul-bagian">Siap Memasang & Memperbaiki Jaringan Fiber Optik Anda</h2>
+     <div style="max-width:800px; margin:0 auto; background:#E6F0FC; padding:30px; border-radius:16px; box-shadow:0 8px 24px rgba(8,27,57,0.10); text‑align:center;">
+<p style="margin‑bottom:15px; text‑align:left;"><strong>Penutup</strong></p>
+<p style="margin‑bottom:15px; text‑align:left;">Kami menyediakan jasa pemasangan, penyambungan, perbaikan serta pengecekan jaringan fiber optik untuk rumah, kantor, sekolah dan perkantoran. Tim kami berpengalaman menangani penyambungan kabel fiber optik, pemasangan terminal ODB hingga pengecekan kerusakan kabel menggunakan alat OTDR.</p>
+<p style="margin‑bottom:25px; text‑align:left;">Jika Anda membutuhkan jasa pemasangan atau perbaikan jaringan fiber optik yang cepat, rapi dan terpercaya, silakan hubungi kami untuk konsultasi dan penawaran harga terbaik.</p>
+       <!-- Tombol Chat WhatsApp -->
+  <a href="https://wa.me/6282161153043" target="_blank" style="display:inline‑block; padding:14px 30px; background‑color:#25D366; color:#ffffff; text‑decoration:none; border‑radius:30px; font‑weight:600; font‑size:17px; box‑shadow:0 6px 18px rgba(37, 211, 102, 0.35); transition:0.3s;">
+    💬 Chat WhatsApp Kami
+  </a>
+  </div>
     </div>
 </section>
 
 <!-- Footer -->
 <footer>
-    <div class="container">
-        <p>© 2026 Jasa Fiber Optik | Pemasangan & Perbaikan Jaringan Fiber Optik</p>
+  <div class="container">
+ <p>© 2026 Jasa Fiber Optik | Pemasangan & Perbaikan Jaringan Fiber Optik</p>
     </div>
 </footer>
 
