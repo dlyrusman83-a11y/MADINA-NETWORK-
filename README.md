@@ -204,7 +204,7 @@
     <br>
 
     <a class="btn"
-       href="https://wa.me/6281234567890?text=Halo%2C%20saya%20ingin%20memesan%20jasa%20fiber%20optik">
+       href="https://wa.me/6282161153043?text=Halo%2C%20saya%20ingin%20memesan%20jasa%20fiber%20optik">
       Chat WhatsApp
     </a>
   </section>
@@ -225,7 +225,7 @@
 <p style="margin‑bottom:20px; text‑align:left;">Jika Anda membutuhkan jasa pemasangan atau perbaikan jaringan fiber optik yang cepat, rapi dan terpercaya, silakan hubungi kami untuk konsultasi dan penawaran harga terbaik.</p>
        <!-- Tombol Chat WhatsApp -->
   <a href="https://wa.me/6282161153043" target="_blank" style="display:inline‑block; padding:14px 30px; background‑color:#ffffff; color:#0b1120; text‑decoration:none; border‑radius:15px; font‑weight:600; font‑size:17px; box‑shadow:0 6px 18px rgba(37, 211, 102, 0.35); transition:0.3s;">
-    <h2>💬 Chat WhatsApp Kami</h2>
+  
   </a>
   </div>
     </div>
