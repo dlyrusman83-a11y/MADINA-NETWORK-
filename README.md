@@ -242,38 +242,38 @@
 
     <div class="paket">
       <h3>20 Mbps</h3>
-      <p>Internet fiber optik unlimited</p>
+      <p>Internet madina network</p>
       <p class="harga">Rp150.000/bulan</p>
     </div>
 
     <div class="paket">
       <h3>30 Mbps</h3>
-      <p>Internet fiber optik unlimited</p>
+      <p>Internet madina network</p>
       <p class="harga">Rp200.000/bulan</p>
     </div>
 
     <div class="paket">
       <h3>50 Mbps</h3>
-      <p>Internet fiber optik unlimited</p>
+      <p>Internet madina network</p>
       <p class="harga">Rp250.000/bulan</p>
     </div>
 
     <div class="paket">
       <h3>100 Mbps</h3>
-      <p>Internet fiber optik unlimited</p>
+      <p>Internet madina network</p>
       <p class="harga">Rp350.000/bulan</p>
     </div>
 
     <div class="paket">
       <h3>200 Mbps</h3>
-      <p>Internet fiber optik unlimited</p>
+      <p>Internet madina network</p>
       <p class="harga">Rp500.000/bulan</p>
     </div>
 
   </div>
 
   <div class="info-wifi">
-    <p><strong>Layanan:</strong> Internet fiber optik unlimited.</p>
+    <p><strong>Layanan:</strong> Internet madina network.</p>
     <p><strong>Instalasi baru:</strong> Rp250.000.</p>
   </div>
 
